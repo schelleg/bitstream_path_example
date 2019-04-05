@@ -1,1 +1,3 @@
-# bitstream_path_example
+![](image.png)
+![](image_init.png)
+
